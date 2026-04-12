@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jeevasankaran!
 
-### 🚀 Automation & Backend Developer | Building Scalable Systems
+### 🚀 Full-Stack & Automation Developer | Building Scalable Systems
 
 <p align="center">
   <a href="https://github.com/JEEVASANKARAN" target="_blank">
@@ -27,7 +27,7 @@
 
 ## 💫 About Me
 
-Passionate **Automation & Full-Stack Developer** dedicated to crafting scalable, maintainable systems. With strong foundations in **Java, OOP, and system design**, I specialize in building robust backend architectures and modern web applications. I'm driven by the philosophy of *clean code, elegant solutions, and continuous learning*.
+Passionate **Full-Stack & Automation Developer** dedicated to crafting scalable, maintainable systems. With strong foundations in **Java, OOP, and system design**, I specialize in building robust backend architectures and modern web applications. I'm driven by the philosophy of *clean code, elegant solutions, and continuous learning*.
 
 ### 🎯 Current Focus
 - 🔭 Deepening **backend architecture** expertise with **Spring Boot & Hibernate**
